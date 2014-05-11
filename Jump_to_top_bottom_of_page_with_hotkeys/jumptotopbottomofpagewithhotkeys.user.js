@@ -6,7 +6,7 @@
 // @require     	http://js-addon.googlecode.com/files/autoupdatehelper.js?v=1
 // @updateURL       http://userscripts.org/scripts/source/108242.meta.js
 // @version     	2014.5.11
-// @icon			https://github.com/duola/gm_script/blob/master/icon.png
+// @icon			https://raw.githubusercontent.com/duola/gm_script/master/icon.png
 // @include     	*
 // @exclude     	https://mail.google.com/*
 // @exclude     	http://dzh.mop.com/*
