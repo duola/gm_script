@@ -6,7 +6,7 @@
 
 ##相关资源
 - 本油猴脚本地址：https://www.userscripts.org/scripts/show/108242
-- Github地址：==[传送门](https://github.com/duola/gm_script/blob/master/Jump-to-Top-Bottom-of-page-with-hotkeys/jumptotopbottomofpagewithhotkeys.user.js)== 如果遇到Userscript挂了，可以去Github来安装脚本。
+- Github地址：==[传送门](https://github.com/duola/gm_script/blob/master/Jump_to_top_bottom_of_page_with_hotkeys/jumptotopbottomofpagewithhotkeys.user.js)== 如果遇到Userscript挂了，可以去Github来安装脚本。
 - 有问题可以在本脚本页面留言或者 [**Firefox贴吧**](http://tieba.baidu.com/f?kw=firefox) 留言。
 - <del>微信公众平台账号：百度firefox吧</del>（这个是我弄着玩的，平时也不用）。<br>
 <img src="http://s3.amazonaws.com/uso_ss/21244/large.jpg" width="150">
