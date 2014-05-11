@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name		Jump to Top/Bottom of page with hotkeys
 // @author		哆啦B梦的弟弟
-// @namespace		http://duolab.info/?p=531
-// @description		为网页增加向页尾、页首的按钮及快捷键，2013.4.13更新。
+// @downloadURL     https://github.com/duola/gm_script/blob/master/Jump-to-Top-Bottom-of-page-with-hotkeys/jumptotopbottomofpagewithhotkeys.user.js
+// @description		为网页增加向页尾、页首的按钮及快捷键，2014.5.11更新。
 // @require     	http://js-addon.googlecode.com/files/autoupdatehelper.js?v=1
-// @version     	1.9.6
+// @version     	2014.5.11
 // @include     	*
 // @exclude     	https://mail.google.com/*
 // @exclude     	*.google.com/reader/*
