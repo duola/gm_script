@@ -11,7 +11,9 @@
 // ==/UserScript==
 
 $(document).ready(function(){
-  var username = (typeof(unsafeWindow) !== "undefined" ? unsafeWindow : window).PageData.user.user_name;  //鸣谢@patwonder
+	var w = typeof(unsafeWindow) !== "undefined" ? unsafeWindow : window;
+	var user = w.PageData.user;
+	var username = user.user_name || user.name;
 	$("li[class=u_wallet]").html(
 		"<div class='u_menu_item u_menu_wallet'><a style='background: url(&quot;http://imgsrc.baidu.com/forum/pic/item/bd8fb83533fa828ba5c20a1dff1f4134950a5a9f.jpg&quot;) no-repeat scroll 0px 0px transparent; height: 16px; width: 16px; margin-top: 1px;' class='u_menu_wrap u_wallet_wrap j_wallet' title='点击查看新回复' href='http://tieba.baidu.com/home/msg?un="+username+"&fr=home' target='_blank'></a></div>"
 	);
