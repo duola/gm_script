@@ -2,8 +2,8 @@
 // @name			Baidu Tieba Message Review Button
 // @description		把贴吧T豆帐单更改为查看贴吧消息按纽
 // @author			哆啦B梦的弟弟
-// @updateURL		https://raw.githubusercontent.com/duola/gm_script/master/TiebaMessageReviewButton/BaiduTiebaMessageReviewButton.user.js
-// @downloadURL		https://raw.githubusercontent.com/duola/gm_script/master/TiebaMessageReviewButton/BaiduTiebaMessageReviewButton.user.js
+// @updateURL		https://raw.githubusercontent.com/duola/gm_script/master/Baidu%20Tieba%20Message%20Review%20Button/BaiduTiebaMessageReviewButton.user.js
+// @downloadURL		https://raw.githubusercontent.com/duola/gm_script/master/Baidu%20Tieba%20Message%20Review%20Button/BaiduTiebaMessageReviewButton.user.js
 // @include			http://tieba.baidu.com/*
 // @require			http://code.jquery.com/jquery-1.6.min.js
 // @version			2014.05.31
