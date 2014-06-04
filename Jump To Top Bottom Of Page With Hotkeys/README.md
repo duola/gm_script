@@ -2,6 +2,8 @@
 
 　　**Jump to Top/Bottom of page with hotkeys** 是一个运行于油猴（Userscript）或者 Scriptish 扩展下的脚本，旨在让网页的页首与页尾跳转更轻松、快捷。 Jump to Top/Bottom of page with hotkeys 可以使用两种方式跳转至页首与页尾：
 
+![](http://s3.amazonaws.com/uso_ss/15680/large.png)
+
 1. 按钮。默认在网页右侧居中有一个向上以及一个向下按钮，通过点击向上或者向下按键便可以快速的回到页首或页尾了。
 2. 快捷键。内置`W,S` `A,D` `N,M` `J,K` 四组快捷键，分别代表不同的跨度向下或向下翻页。
 
