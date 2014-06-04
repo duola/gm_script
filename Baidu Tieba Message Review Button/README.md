@@ -1,5 +1,3 @@
-[TOC]
-
 ## Baidu Tieba Message Review Button
 
 ### 脚本介绍
@@ -14,7 +12,3 @@
 日期|内容 
 ----------|:--------
 2014/05/31|加入自动获取用户名功能，直接就可以点击进入消息页面，不用手动设置。鸣谢 @[patwonder](http://tieba.baidu.com/home/main?un=patwonder&fr=pb)
-
-_ _ _
-
-=================== END ===================
