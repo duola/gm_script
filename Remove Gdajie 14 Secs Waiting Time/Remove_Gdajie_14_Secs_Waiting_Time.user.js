@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name			Remove Gdajie 14 Secs Waiting Time 
 // @author			哆啦B梦的弟弟
-// @homepage        
+// @homepage        https://github.com/duola/gm_script/tree/master/Remove%20Gdajie%2014%20Secs%20Waiting%20Time
 // @description		去除逛电驴14秒等待时间
-// @updateURL
-// @downloadURL
+// @updateURL		https://raw.githubusercontent.com/duola/gm_script/master/Remove%20Gdajie%2014%20Secs%20Waiting%20Time/Remove_Gdajie_14_Secs_Waiting_Time.user.js
+// @downloadURL		https://raw.githubusercontent.com/duola/gm_script/master/Remove%20Gdajie%2014%20Secs%20Waiting%20Time/Remove_Gdajie_14_Secs_Waiting_Time.user.js
 // @include			http://*verycd.gdajie.com/*
 // @grant			none
 // @version			2014.06.05
