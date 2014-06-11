@@ -1,16 +1,17 @@
 // ==UserScript==
-// @name		    Jump to Top/Bottom of page with hotkeys
-// @author		    哆啦B梦的弟弟
-// @downloadURL     https://github.com/duola/gm_script/blob/master/Jump_to_top_bottom_of_page_with_hotkeys/jumptotopbottomofpagewithhotkeys.user.js
-// @description		为网页增加向页尾、页首的按钮及快捷键，2014.5.11更新。
-// @require     	http://js-addon.googlecode.com/files/autoupdatehelper.js?v=1
-// @updateURL       http://userscripts.org/scripts/source/108242.meta.js
-// @version     	2014.5.11
+// @name		        Jump to Top/Bottom of page with hotkeys
+// @author		        哆啦B梦的弟弟
+// @description	        为网页增加向页尾、页首的按钮及快捷键。
+// @namespace          	https://greasyfork.org/scripts/794
+// @version				2014.6.12
+// @updateURL      		https://greasyfork.org/scripts/794/code.meta.js
+// @downloadURL    		https://greasyfork.org/scripts/794/code.user.js
 // @icon			data:image/png;base64,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
 // @include     	*
 // @exclude     	https://mail.google.com/*
 // @exclude     	http://dzh.mop.com/*
 // @exclude     	http://www.douban.com/photos/*
+// @grant			none
 // ==/UserScript==
 
 /* ************************ 页面效果 ************************ */
@@ -92,6 +93,3 @@ function openFirefoxBar(){
 	}, false); 
 };
 */
-
-//自动更新
-new Updater({name: 'Jump to Top/Bottom of page with hotkeys',id: '108242',version: '1.9.6'}).check();
