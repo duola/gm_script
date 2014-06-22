@@ -9,3 +9,5 @@
 ## *Remove Gdajie 14 Secs Waiting Time*
 　　用来解决 [逛电驴（逛大街）](http://verycd.gdajie.com/) 网站上获取下载链接需等待14秒的问题。使用该脚本直接获取下载链接无需再等待14秒。
 
+<a href="http://www.51.la/?17114725" target="_blank"><img alt="&#x6211;&#x8981;&#x5566;&#x514D;&#x8D39;&#x7EDF;&#x8BA1;" src="http://img.users.51.la/17114725.asp" style="border:none" /></a>
+
